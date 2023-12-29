@@ -55,19 +55,19 @@ After configuration:
 
 ### HTML Page Creation
 
-- Keep the HTML simple; focus on differentiating the home page and /yellow page.
+- the simple HTML; focus on differentiating the home page and /yellow page.
 - Ensure the HTML files are placed in the directory specified in the Nginx configuration.
 
 ### Testing
 
-- Access http://localhost or (EC2 instance public IP) and http://localhost/yellow in your browser to test.
+- Access http://localhost or (EC2 instance public IP) and http://localhost/yellow.html  (EC2 instance public IP)/yellow.html in your browser to test.
 - Check for any errors and ensure that Nginx serves the correct pages.
 
 ## Test Data
 
 #### Home Page (index.html):
 
-Content: "Welcome to my Nginx server! My name is Pawan."
+Content: "Welcome to my Nginx server! My name is PAWAN."
 
 #### Yellow Page (yellow.html):
 
